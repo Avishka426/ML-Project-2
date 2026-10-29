@@ -1,0 +1,14 @@
+check,column,count,example,planned_treatment
+Exact duplicate rows,all,30,same customerID and identical values,Remove extra copies
+Repeated customerID,customerID,30,every repeated ID is an exact duplicate row,Resolved by removing exact duplicates
+"Identical profile, different customerID",all,20,e.g. new customers with only a basic phone plan,Keep - genuinely different customers
+Invalid / blank category,gender,15,"{'Unknown': 7, 'N/A': 6, 'OtherXYZ': 2}",Set to missing
+Invalid / blank category,Contract,35,{'<blank>': 35},Set to missing
+Blank value,tenure,40,'',Set to missing
+Negative sentinel value,tenure,10,[-99.0],Set to missing
+Impossible non-integer value,tenure,10,545.8 to 988.5 months,Set to missing
+Zero tenure (new customer),tenure,11,0,Keep - valid new customers
+Blank value,MonthlyCharges,50,'',Set to missing
+Impossible value (> plausible ceiling),MonthlyCharges,10,"5,765 to 9,960",Set to missing
+Blank value,TotalCharges,11,all have tenure = [0.0],Set to 0 (not billed yet)
+Non-numeric text,TotalCharges,12,['INVALID_VAL'],Set to missing

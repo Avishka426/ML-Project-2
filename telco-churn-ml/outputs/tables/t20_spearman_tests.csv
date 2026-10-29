@@ -1,0 +1,7 @@
+variable_1,variable_2,spearman_rho,p_value,strength
+tenure,MonthlyCharges,0.2762062525683534,1.6015675630385684e-123,small
+tenure,TotalCharges,0.8897035258508313,0.0,large
+tenure,churn_flag,-0.3670640287615514,1.3955250851666048e-223,medium
+MonthlyCharges,TotalCharges,0.6379285220293417,0.0,large
+MonthlyCharges,churn_flag,0.1846833502765557,4.477887648921125e-55,small
+TotalCharges,churn_flag,-0.22994861597263097,3.5898354610247056e-85,small

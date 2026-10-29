@@ -1,0 +1,194 @@
+customerID,column,old_value,new_value,rule
+5630-AHZIL,gender,OtherXYZ,,invalid/blank label -> missing
+9803-FTJCG,gender,N/A,,invalid/blank label -> missing
+2739-CACDQ,gender,Unknown,,invalid/blank label -> missing
+6579-JPICP,gender,Unknown,,invalid/blank label -> missing
+4524-QCSSM,gender,Unknown,,invalid/blank label -> missing
+5349-AZPEW,gender,N/A,,invalid/blank label -> missing
+1784-EZDKJ,gender,N/A,,invalid/blank label -> missing
+9061-TIHDA,gender,N/A,,invalid/blank label -> missing
+7927-AUXBZ,gender,Unknown,,invalid/blank label -> missing
+0164-APGRB,gender,Unknown,,invalid/blank label -> missing
+8610-ZIKJJ,gender,N/A,,invalid/blank label -> missing
+5445-PZWGX,gender,Unknown,,invalid/blank label -> missing
+6507-DTJZV,gender,OtherXYZ,,invalid/blank label -> missing
+5271-DBYSJ,gender,N/A,,invalid/blank label -> missing
+2233-TXSIU,gender,Unknown,,invalid/blank label -> missing
+8769-KKTPH,Contract,<blank>,,invalid/blank label -> missing
+9073-ZZIAY,Contract,<blank>,,invalid/blank label -> missing
+0215-BQKGS,Contract,<blank>,,invalid/blank label -> missing
+1937-OTUKY,Contract,<blank>,,invalid/blank label -> missing
+5832-TRLPB,Contract,<blank>,,invalid/blank label -> missing
+9968-FFVVH,Contract,<blank>,,invalid/blank label -> missing
+2245-ADZFJ,Contract,<blank>,,invalid/blank label -> missing
+0754-EEBDC,Contract,<blank>,,invalid/blank label -> missing
+0602-DDUML,Contract,<blank>,,invalid/blank label -> missing
+1084-UQCHV,Contract,<blank>,,invalid/blank label -> missing
+9570-KYEUA,Contract,<blank>,,invalid/blank label -> missing
+5156-UMKOW,Contract,<blank>,,invalid/blank label -> missing
+5136-KCKGI,Contract,<blank>,,invalid/blank label -> missing
+0397-GZBBC,Contract,<blank>,,invalid/blank label -> missing
+7341-LXCAF,Contract,<blank>,,invalid/blank label -> missing
+4749-VFKVB,Contract,<blank>,,invalid/blank label -> missing
+3763-GCZHZ,Contract,<blank>,,invalid/blank label -> missing
+4318-RAJVY,Contract,<blank>,,invalid/blank label -> missing
+8751-EDEKA,Contract,<blank>,,invalid/blank label -> missing
+2150-WLKUW,Contract,<blank>,,invalid/blank label -> missing
+6418-HNFED,Contract,<blank>,,invalid/blank label -> missing
+5606-AMZBO,Contract,<blank>,,invalid/blank label -> missing
+6425-YQLLO,Contract,<blank>,,invalid/blank label -> missing
+1852-XEMDW,Contract,<blank>,,invalid/blank label -> missing
+1384-RCUXW,Contract,<blank>,,invalid/blank label -> missing
+8875-AKBYH,Contract,<blank>,,invalid/blank label -> missing
+5281-BUZGT,Contract,<blank>,,invalid/blank label -> missing
+9866-OCCKE,Contract,<blank>,,invalid/blank label -> missing
+7932-WPTDS,Contract,<blank>,,invalid/blank label -> missing
+9584-EXCDZ,Contract,<blank>,,invalid/blank label -> missing
+2330-PQGDQ,Contract,<blank>,,invalid/blank label -> missing
+6726-WEXXK,Contract,<blank>,,invalid/blank label -> missing
+4000-VGMQP,Contract,<blank>,,invalid/blank label -> missing
+5298-GSTLM,Contract,<blank>,,invalid/blank label -> missing
+2342-CKIAO,Contract,<blank>,,invalid/blank label -> missing
+2639-UGMAZ,tenure,-99.0,71.0,invalid -> round(TotalCharges / MonthlyCharges)
+1159-WFSGR,tenure,<blank>,16.0,invalid -> round(TotalCharges / MonthlyCharges)
+7825-ECJRF,tenure,747.8440731086222,18.0,invalid -> round(TotalCharges / MonthlyCharges)
+2040-LDIWQ,tenure,<blank>,63.0,invalid -> round(TotalCharges / MonthlyCharges)
+5804-LEPIM,tenure,<blank>,2.0,invalid -> round(TotalCharges / MonthlyCharges)
+4654-DLAMQ,tenure,986.6696330982958,66.0,invalid -> round(TotalCharges / MonthlyCharges)
+4568-KNYWR,tenure,627.3358177735596,53.0,invalid -> round(TotalCharges / MonthlyCharges)
+8338-QIUNR,tenure,<blank>,72.0,invalid -> round(TotalCharges / MonthlyCharges)
+6980-IMXXE,tenure,<blank>,70.0,invalid -> round(TotalCharges / MonthlyCharges)
+9408-HRXRK,tenure,<blank>,45.0,invalid -> round(TotalCharges / MonthlyCharges)
+6198-RTPMF,tenure,<blank>,17.0,invalid -> round(TotalCharges / MonthlyCharges)
+3030-YDNRM,tenure,<blank>,8.0,invalid -> round(TotalCharges / MonthlyCharges)
+7010-BRBUU,tenure,<blank>,72.0,invalid -> round(TotalCharges / MonthlyCharges)
+7776-QWNFX,tenure,916.7714170754804,30.0,invalid -> round(TotalCharges / MonthlyCharges)
+4514-GFCFI,tenure,<blank>,16.0,invalid -> round(TotalCharges / MonthlyCharges)
+0248-IPDFW,tenure,-99.0,1.0,invalid -> round(TotalCharges / MonthlyCharges)
+2038-OEQZH,tenure,-99.0,4.0,invalid -> round(TotalCharges / MonthlyCharges)
+7951-VRDVK,tenure,<blank>,35.0,invalid -> round(TotalCharges / MonthlyCharges)
+3211-ILJTT,tenure,<blank>,17.0,invalid -> round(TotalCharges / MonthlyCharges)
+9570-KYEUA,tenure,<blank>,66.0,invalid -> round(TotalCharges / MonthlyCharges)
+5465-BUBFA,tenure,<blank>,40.0,invalid -> round(TotalCharges / MonthlyCharges)
+2141-RRYGO,tenure,<blank>,4.0,invalid -> round(TotalCharges / MonthlyCharges)
+3181-VTHOE,tenure,988.4886603790071,71.0,invalid -> round(TotalCharges / MonthlyCharges)
+9617-INGJY,tenure,<blank>,1.0,invalid -> round(TotalCharges / MonthlyCharges)
+4176-FXYBO,tenure,<blank>,56.0,invalid -> round(TotalCharges / MonthlyCharges)
+9919-KNPOO,tenure,<blank>,21.0,invalid -> round(TotalCharges / MonthlyCharges)
+9501-UKKNL,tenure,752.4734964982632,58.0,invalid -> round(TotalCharges / MonthlyCharges)
+6088-BXMRG,tenure,-99.0,31.0,invalid -> round(TotalCharges / MonthlyCharges)
+4818-QIUFN,tenure,<blank>,19.0,invalid -> round(TotalCharges / MonthlyCharges)
+9065-ZCPQX,tenure,-99.0,72.0,invalid -> round(TotalCharges / MonthlyCharges)
+7714-YXSMB,tenure,<blank>,26.0,invalid -> round(TotalCharges / MonthlyCharges)
+7291-CDTMJ,tenure,<blank>,1.0,invalid -> round(TotalCharges / MonthlyCharges)
+5055-BRMNE,tenure,<blank>,66.0,invalid -> round(TotalCharges / MonthlyCharges)
+5018-GWURO,tenure,<blank>,57.0,invalid -> round(TotalCharges / MonthlyCharges)
+3714-JTVOV,tenure,<blank>,44.0,invalid -> round(TotalCharges / MonthlyCharges)
+1834-ABKHQ,tenure,647.8821770368477,51.0,invalid -> round(TotalCharges / MonthlyCharges)
+2778-OCLGR,tenure,-99.0,25.0,invalid -> round(TotalCharges / MonthlyCharges)
+5175-AOBHI,tenure,545.7649960420496,4.0,invalid -> round(TotalCharges / MonthlyCharges)
+6848-YLDFR,tenure,662.3833071695093,57.0,invalid -> round(TotalCharges / MonthlyCharges)
+3744-ZRRDZ,tenure,<blank>,22.0,invalid -> round(TotalCharges / MonthlyCharges)
+7269-JISCY,tenure,-99.0,55.0,invalid -> round(TotalCharges / MonthlyCharges)
+5143-EGQFK,tenure,<blank>,10.0,invalid -> round(TotalCharges / MonthlyCharges)
+6229-UOLQL,tenure,<blank>,55.0,invalid -> round(TotalCharges / MonthlyCharges)
+3936-QQFLL,tenure,-99.0,2.0,invalid -> round(TotalCharges / MonthlyCharges)
+9786-YWNHU,tenure,<blank>,63.0,invalid -> round(TotalCharges / MonthlyCharges)
+3733-UOCWF,tenure,<blank>,61.0,invalid -> round(TotalCharges / MonthlyCharges)
+8718-PTMEZ,tenure,-99.0,11.0,invalid -> round(TotalCharges / MonthlyCharges)
+0329-GTIAJ,tenure,<blank>,3.0,invalid -> round(TotalCharges / MonthlyCharges)
+9584-EXCDZ,tenure,<blank>,17.0,invalid -> round(TotalCharges / MonthlyCharges)
+2957-JIRMN,tenure,<blank>,59.0,invalid -> round(TotalCharges / MonthlyCharges)
+8019-ENHXU,tenure,-99.0,42.0,invalid -> round(TotalCharges / MonthlyCharges)
+8990-YOZLV,tenure,583.6180643974569,68.0,invalid -> round(TotalCharges / MonthlyCharges)
+2446-BEGGB,tenure,<blank>,6.0,invalid -> round(TotalCharges / MonthlyCharges)
+4023-RTIQM,tenure,<blank>,31.0,invalid -> round(TotalCharges / MonthlyCharges)
+3249-VHRIP,tenure,<blank>,63.0,invalid -> round(TotalCharges / MonthlyCharges)
+1952-DVVSW,tenure,<blank>,9.0,invalid -> round(TotalCharges / MonthlyCharges)
+7426-GSWPO,tenure,<blank>,63.0,invalid -> round(TotalCharges / MonthlyCharges)
+6508-NJYRO,tenure,<blank>,16.0,invalid -> round(TotalCharges / MonthlyCharges)
+6967-PEJLL,tenure,<blank>,38.0,invalid -> round(TotalCharges / MonthlyCharges)
+9586-JGQKH,tenure,<blank>,64.0,invalid -> round(TotalCharges / MonthlyCharges)
+3679-XASPY,MonthlyCharges,<blank>,19.45,invalid -> TotalCharges / tenure
+8587-XYZSF,MonthlyCharges,<blank>,48.66,invalid -> TotalCharges / tenure
+2070-FNEXE,MonthlyCharges,<blank>,71.94,invalid -> TotalCharges / tenure
+1024-GUALD,MonthlyCharges,<blank>,24.8,invalid -> TotalCharges / tenure
+0078-XZMHT,MonthlyCharges,<blank>,87.72,invalid -> TotalCharges / tenure
+4312-KFRXN,MonthlyCharges,6584.0070014094445,23.76,invalid -> TotalCharges / tenure
+4853-RULSV,MonthlyCharges,<blank>,103.57,invalid -> TotalCharges / tenure
+2672-TGEFF,MonthlyCharges,<blank>,90.29,invalid -> TotalCharges / tenure
+0655-RBDUG,MonthlyCharges,8656.872409297803,101.86,invalid -> TotalCharges / tenure
+9170-ARBTB,MonthlyCharges,<blank>,19.47,invalid -> TotalCharges / tenure
+9036-CSKBW,MonthlyCharges,<blank>,111.39,invalid -> TotalCharges / tenure
+5334-JLAXU,MonthlyCharges,<blank>,91.26,invalid -> TotalCharges / tenure
+6818-WOBHJ,MonthlyCharges,<blank>,90.11,invalid -> TotalCharges / tenure
+2293-IJWPS,MonthlyCharges,<blank>,105.0,invalid -> TotalCharges / tenure
+0743-HNPFG,MonthlyCharges,<blank>,69.85,invalid -> TotalCharges / tenure
+2058-DCJBE,MonthlyCharges,<blank>,64.92,invalid -> TotalCharges / tenure
+4737-AQCPU,MonthlyCharges,<blank>,69.68,invalid -> TotalCharges / tenure
+8952-WCVCD,MonthlyCharges,<blank>,101.51,invalid -> TotalCharges / tenure
+6910-HADCM,MonthlyCharges,<blank>,76.35,invalid -> TotalCharges / tenure
+5832-EXGTT,MonthlyCharges,<blank>,63.25,invalid -> TotalCharges / tenure
+4967-WPNCF,MonthlyCharges,<blank>,62.01,invalid -> TotalCharges / tenure
+3757-NJYBX,MonthlyCharges,9529.771250058606,110.02,invalid -> TotalCharges / tenure
+5766-ZJYBB,MonthlyCharges,<blank>,19.4,invalid -> TotalCharges / tenure
+5315-CKEQK,MonthlyCharges,<blank>,49.35,invalid -> TotalCharges / tenure
+0484-JPBRU,MonthlyCharges,<blank>,24.3,invalid -> TotalCharges / tenure
+9392-XBGTD,MonthlyCharges,<blank>,21.55,invalid -> TotalCharges / tenure
+0148-DCDOS,MonthlyCharges,<blank>,94.48,invalid -> TotalCharges / tenure
+2668-TZSPS,MonthlyCharges,<blank>,20.45,invalid -> TotalCharges / tenure
+5696-EXCYS,MonthlyCharges,<blank>,21.71,invalid -> TotalCharges / tenure
+1640-PLFMP,MonthlyCharges,<blank>,70.25,invalid -> TotalCharges / tenure
+9402-ORRAH,MonthlyCharges,<blank>,93.35,invalid -> TotalCharges / tenure
+4465-VDKIQ,MonthlyCharges,8259.678306592792,75.48,invalid -> TotalCharges / tenure
+8417-GSODA,MonthlyCharges,8983.213186695057,91.72,invalid -> TotalCharges / tenure
+9378-FXTIZ,MonthlyCharges,7579.062158526317,68.81,invalid -> TotalCharges / tenure
+3082-YVEKW,MonthlyCharges,<blank>,76.5,invalid -> TotalCharges / tenure
+5914-DVBWJ,MonthlyCharges,<blank>,83.66,invalid -> TotalCharges / tenure
+3620-EHIMZ,MonthlyCharges,<blank>,19.84,invalid -> TotalCharges / tenure
+0237-YFUTL,MonthlyCharges,9918.519889167252,108.12,invalid -> TotalCharges / tenure
+3192-LNKRK,MonthlyCharges,<blank>,85.59,invalid -> TotalCharges / tenure
+7130-VTEWQ,MonthlyCharges,<blank>,75.78,invalid -> TotalCharges / tenure
+7998-ZLXWN,MonthlyCharges,<blank>,22.05,invalid -> TotalCharges / tenure
+5502-RLUYV,MonthlyCharges,<blank>,107.93,invalid -> TotalCharges / tenure
+1853-UDXBW,MonthlyCharges,<blank>,70.0,invalid -> TotalCharges / tenure
+5219-YIPTK,MonthlyCharges,<blank>,103.32,invalid -> TotalCharges / tenure
+1112-CUNAO,MonthlyCharges,<blank>,95.0,invalid -> TotalCharges / tenure
+1902-XBTFB,MonthlyCharges,<blank>,90.98,invalid -> TotalCharges / tenure
+9530-EHPOH,MonthlyCharges,<blank>,55.27,invalid -> TotalCharges / tenure
+5364-EVNIB,MonthlyCharges,<blank>,74.88,invalid -> TotalCharges / tenure
+1984-FCOWB,MonthlyCharges,9959.833035566528,109.64,invalid -> TotalCharges / tenure
+5553-AOINX,MonthlyCharges,<blank>,104.42,invalid -> TotalCharges / tenure
+0080-EMYVY,MonthlyCharges,<blank>,51.99,invalid -> TotalCharges / tenure
+6328-ZPBGN,MonthlyCharges,<blank>,90.7,invalid -> TotalCharges / tenure
+8033-VCZGH,MonthlyCharges,<blank>,104.63,invalid -> TotalCharges / tenure
+7356-IWLFW,MonthlyCharges,<blank>,81.95,invalid -> TotalCharges / tenure
+2869-ADAWR,MonthlyCharges,<blank>,89.26,invalid -> TotalCharges / tenure
+2100-BDNSN,MonthlyCharges,<blank>,70.06,invalid -> TotalCharges / tenure
+1353-LJWEM,MonthlyCharges,5877.97940312271,62.59,invalid -> TotalCharges / tenure
+4576-CSAJH,MonthlyCharges,<blank>,54.23,invalid -> TotalCharges / tenure
+5626-MGTUK,MonthlyCharges,5765.266944255961,93.96,invalid -> TotalCharges / tenure
+2569-WGERO,MonthlyCharges,<blank>,19.71,invalid -> TotalCharges / tenure
+4472-LVYGI,TotalCharges, ,0.0,blank with tenure 0 -> 0
+3115-CZMZD,TotalCharges, ,0.0,blank with tenure 0 -> 0
+5709-LVOEQ,TotalCharges, ,0.0,blank with tenure 0 -> 0
+4367-NUYAO,TotalCharges, ,0.0,blank with tenure 0 -> 0
+1371-DWPAZ,TotalCharges, ,0.0,blank with tenure 0 -> 0
+7644-OMVMY,TotalCharges, ,0.0,blank with tenure 0 -> 0
+3213-VVOLG,TotalCharges, ,0.0,blank with tenure 0 -> 0
+2520-SGTTA,TotalCharges, ,0.0,blank with tenure 0 -> 0
+2923-ARZLG,TotalCharges, ,0.0,blank with tenure 0 -> 0
+4075-WKNIU,TotalCharges, ,0.0,blank with tenure 0 -> 0
+2775-SEFEE,TotalCharges, ,0.0,blank with tenure 0 -> 0
+8091-TTVAX,TotalCharges,INVALID_VAL,5820.3,invalid -> tenure x MonthlyCharges
+6905-NIQIN,TotalCharges,INVALID_VAL,50.65,invalid -> tenure x MonthlyCharges
+6646-QVXLR,TotalCharges,INVALID_VAL,6432.5,invalid -> tenure x MonthlyCharges
+9681-KYGYB,TotalCharges,INVALID_VAL,4321.8,invalid -> tenure x MonthlyCharges
+1100-DDVRV,TotalCharges,INVALID_VAL,846.6,invalid -> tenure x MonthlyCharges
+2519-TWKFS,TotalCharges,INVALID_VAL,1377.5,invalid -> tenure x MonthlyCharges
+2162-FRZAA,TotalCharges,INVALID_VAL,2479.05,invalid -> tenure x MonthlyCharges
+7609-YBPXG,TotalCharges,INVALID_VAL,4703.4,invalid -> tenure x MonthlyCharges
+8048-DSDFQ,TotalCharges,INVALID_VAL,20.2,invalid -> tenure x MonthlyCharges
+4391-RESHN,TotalCharges,INVALID_VAL,2393.15,invalid -> tenure x MonthlyCharges
+5188-HGMLP,TotalCharges,INVALID_VAL,3996.0,invalid -> tenure x MonthlyCharges
+4597-ELFTS,TotalCharges,INVALID_VAL,1394.4,invalid -> tenure x MonthlyCharges

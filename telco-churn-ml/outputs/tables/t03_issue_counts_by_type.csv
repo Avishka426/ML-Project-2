@@ -1,0 +1,22 @@
+,Blank,Invalid text / label,Impossible value
+customerID,0,0,0
+gender,0,15,0
+SeniorCitizen,0,0,0
+Partner,0,0,0
+Dependents,0,0,0
+tenure,40,0,20
+PhoneService,0,0,0
+MultipleLines,0,0,0
+InternetService,0,0,0
+OnlineSecurity,0,0,0
+OnlineBackup,0,0,0
+DeviceProtection,0,0,0
+TechSupport,0,0,0
+StreamingTV,0,0,0
+StreamingMovies,0,0,0
+Contract,35,0,0
+PaperlessBilling,0,0,0
+PaymentMethod,0,0,0
+MonthlyCharges,80,0,10
+TotalCharges,11,12,0
+Churn,0,0,0

@@ -1,0 +1,4 @@
+value_repaired,rows_checked,method,repair_mean_abs_error,repair_median_abs_pct_error,median_imputation_mean_abs_error,median_imputation_median_abs_pct_error
+TotalCharges,6900,tenure x MonthlyCharges,44.90408695652174,1.9989499285491306,1774.9413260869567,74.49596206914414
+tenure,6900,round(TotalCharges / MonthlyCharges),0.6744927536231884,0.0,21.730579710144927,57.35294117647059
+MonthlyCharges,6900,TotalCharges / tenure,1.7465227337202105,2.0028183893256135,25.847347826086953,29.27389705882351

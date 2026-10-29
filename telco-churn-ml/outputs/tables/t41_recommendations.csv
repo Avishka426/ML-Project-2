@@ -1,0 +1,8 @@
+recommendation,evidence,suggested action
+1. Move month-to-month customers onto longer contracts,Churn 42.7% vs 2.8% (two-year); OR two-year vs month-to-month = 0.25,"Offer loyalty discounts or added benefits for switching to 1- or 2-year plans, especially in the first year"
+2. Strengthen onboarding in the first 12 months,Churn 47.5% in the first year vs 9.5% after 4 years; OR per +1 SD tenure = 0.47,"Welcome calls, early check-ins and service-quality follow-ups for new customers"
+3. Investigate the fiber-optic experience,Churn 41.9% vs 19.0% (DSL); OR fiber vs DSL = 2.46 even after controlling for other factors,"Review fiber pricing, reliability and support; survey departing fiber customers"
+4. Encourage automatic payment,Churn 45.3% for electronic check vs 15.2% for automatic credit card; OR = 1.50 vs bank transfer,Small incentives to switch from electronic check to automatic bank or card payment
+5. Promote security and support add-ons,Internet customers: churn with/without OnlineSecurity 14.6% / 41.8%; TechSupport 15.2% / 41.6%; ORs 0.68 and 0.72,"Bundle or offer free trials of online security and tech support, prioritising high-risk customers"
+"6. Use the model to prioritise, not to decide alone",Contacting the top 20% riskiest customers reaches 50% of churners (top 30%: 64%),"Score customers monthly, contact the highest-risk group first, and size the group to the retention budget"
+7. Measure impact with a controlled trial,"The data are observational, so the effect of interventions is unknown",Randomly assign retention offers within the high-risk group (A/B test) to measure their real effect before scaling

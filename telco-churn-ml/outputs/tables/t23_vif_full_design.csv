@@ -1,0 +1,24 @@
+feature,VIF,concern
+MonthlyCharges,836.0686537466547,serious (>10)
+InternetService_Fiber optic,143.26952659447934,serious (>10)
+InternetService_No,100.06647191338264,serious (>10)
+PhoneService_Yes,34.28046613404723,serious (>10)
+StreamingTV_Yes,23.425715079158394,serious (>10)
+StreamingMovies_Yes,23.348121871387384,serious (>10)
+TotalCharges,11.003940519227159,serious (>10)
+tenure,7.647382899601865,moderate (>5)
+MultipleLines_Yes,7.095822858804438,moderate (>5)
+DeviceProtection_Yes,6.778917402465517,moderate (>5)
+OnlineBackup_Yes,6.574463144464835,moderate (>5)
+TechSupport_Yes,6.344046236269956,moderate (>5)
+OnlineSecurity_Yes,6.222812192311683,moderate (>5)
+Contract_Two year,2.6198863627097317,low
+PaymentMethod_Electronic check,1.9742981143174456,low
+PaymentMethod_Mailed check,1.8609498957336428,low
+Contract_One year,1.616904982558653,low
+PaymentMethod_Credit card (automatic),1.5548685898573518,low
+Partner_Yes,1.4491087305110713,low
+Dependents_Yes,1.3739102752608767,low
+PaperlessBilling_Yes,1.2098978112899785,low
+SeniorCitizen_Yes,1.1528861957376995,low
+gender_Male,1.004135250481863,low

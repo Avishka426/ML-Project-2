@@ -1,0 +1,22 @@
+variable,group,type_after_cleaning,values_after_cleaning,description,relevance_to_churn,missing_after_cleaning
+customerID,Identifier,Text (ID),"7,043 unique codes",Unique customer code.,Not a predictor - removed from model features.,0
+gender,Demographic,Binary categorical,Female / Male,Customer gender (Female / Male).,Checks whether churn differs by gender; also a fairness check.,15
+SeniorCitizen,Demographic,Binary categorical,No / Yes,"Whether the customer is 65 or older (0 = No, 1 = Yes).",Older customers may have different service needs.,0
+Partner,Demographic,Binary categorical,No / Yes,Whether the customer has a partner.,Household ties may relate to account stability.,0
+Dependents,Demographic,Binary categorical,No / Yes,Whether the customer has dependents.,Family accounts may be harder to move.,0
+tenure,Account,Numeric (whole months),0.00 to 72.00,Number of months the customer has stayed with the company.,Measures customer relationship length - a key churn indicator.,0
+PhoneService,Service,Binary categorical,No / Yes,Whether the customer has a phone service.,Part of the subscribed service bundle.,0
+MultipleLines,Service,Nominal categorical,No / No phone service / Yes,Whether the customer has multiple phone lines.,Indicates depth of phone subscription.,0
+InternetService,Service,Nominal categorical,DSL / Fiber optic / No,"Internet type: DSL, Fiber optic or No internet.",Service type may relate to price and satisfaction.,0
+OnlineSecurity,Add-on,Nominal categorical,No / No internet service / Yes,Online security add-on subscribed.,Add-ons may increase engagement and switching cost.,0
+OnlineBackup,Add-on,Nominal categorical,No / No internet service / Yes,Online backup add-on subscribed.,Add-ons may increase engagement and switching cost.,0
+DeviceProtection,Add-on,Nominal categorical,No / No internet service / Yes,Device protection add-on subscribed.,Add-ons may increase engagement and switching cost.,0
+TechSupport,Add-on,Nominal categorical,No / No internet service / Yes,Technical support add-on subscribed.,Support access may relate to satisfaction.,0
+StreamingTV,Add-on,Nominal categorical,No / No internet service / Yes,Streaming TV add-on subscribed.,Entertainment services and their cost.,0
+StreamingMovies,Add-on,Nominal categorical,No / No internet service / Yes,Streaming movies add-on subscribed.,Entertainment services and their cost.,0
+Contract,Billing,Nominal categorical,Month-to-month / One year / Two year,"Contract term: Month-to-month, One year or Two year.",Contract commitment directly limits when a customer can leave.,35
+PaperlessBilling,Billing,Binary categorical,No / Yes,Whether the customer receives paperless bills.,Billing preference.,0
+PaymentMethod,Billing,Nominal categorical,Bank transfer (automatic) / Credit card (automatic) / Electronic check / Mailed check,"Payment method (electronic check, mailed check, automatic bank transfer, automatic credit card).",Automatic vs manual payment may relate to engagement.,0
+MonthlyCharges,Billing,Numeric (continuous),18.25 to 118.75,Current monthly bill amount (USD).,Price level may relate to churn.,0
+TotalCharges,Billing,Numeric (continuous),"0.00 to 8,684.80",Total amount billed over the customer's lifetime (USD).,Roughly tenure x monthly charges - strongly overlaps with tenure.,0
+Churn,Target,Binary categorical,No / Yes,Whether the customer left within the last month (Yes / No).,The outcome to be predicted.,0

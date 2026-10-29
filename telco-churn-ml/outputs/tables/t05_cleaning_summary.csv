@@ -1,0 +1,7 @@
+column,rule,values_changed
+Contract,invalid/blank label -> missing,35
+MonthlyCharges,invalid -> TotalCharges / tenure,60
+TotalCharges,blank with tenure 0 -> 0,11
+TotalCharges,invalid -> tenure x MonthlyCharges,12
+gender,invalid/blank label -> missing,15
+tenure,invalid -> round(TotalCharges / MonthlyCharges),60

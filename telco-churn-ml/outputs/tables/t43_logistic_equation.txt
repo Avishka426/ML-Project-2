@@ -1,0 +1,25 @@
+log-odds(churn) = -0.403
+    -1.394 × [Contract_Two year]
+    +0.899 × [InternetService_Fiber optic]
+    -0.836 × [InternetService_No]
+    -0.760 × [tenure]
+    -0.731 × [Contract_One year]
+    -0.408 × [PhoneService_Yes]
+    +0.402 × [PaymentMethod_Electronic check]
+    -0.389 × [OnlineSecurity_Yes]
+    +0.334 × [PaperlessBilling_Yes]
+    -0.323 × [TechSupport_Yes]
+    +0.305 × [StreamingMovies_Yes]
+    +0.282 × [StreamingTV_Yes]
+    +0.275 × [MultipleLines_Yes]
+    -0.240 × [Dependents_Yes]
+    +0.151 × [SeniorCitizen_Yes]
+    -0.109 × [OnlineBackup_Yes]
+    +0.083 × [PaymentMethod_Mailed check]
+    +0.038 × [gender_Male]
+    +0.013 × [Partner_Yes]
+    -0.004 × [DeviceProtection_Yes]
+    -0.001 × [PaymentMethod_Credit card (automatic)]
+
+where [tenure] = (tenure − 32.48) / 24.57, every other term is 1 if the customer has that category (0 = reference category), and p(churn) = 1 / (1 + exp(−log-odds)).
+Note: balanced class weights shift the intercept; use the model for ranking, not as calibrated probabilities.

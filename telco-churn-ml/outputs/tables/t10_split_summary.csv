@@ -1,0 +1,3 @@
+,customers,churned,churn_rate_%
+train (80%),5634,1495,26.54
+test (20%),1409,374,26.54

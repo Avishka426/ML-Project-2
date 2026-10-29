@@ -1,0 +1,22 @@
+feature,coefficient,odds_ratio,or_ci_low,or_ci_high,label,ci_includes_1,direction
+tenure,-0.7602046477566891,0.4675707299171745,0.4107359086335756,0.5269093250922642,Tenure (+1 SD ≈ 25 months),False,lower churn odds
+gender_Male,0.03815471965607587,1.0388919574509086,0.903992689166585,1.1886699520834578,gender: Male (vs Female),True,unclear
+SeniorCitizen_Yes,0.1511458501040925,1.1631662936358416,0.9782102921380463,1.396798229895779,SeniorCitizen: Yes (vs No),True,unclear
+Partner_Yes,0.01288179294319043,1.0129651206569323,0.8548333699970595,1.2137503417474345,Partner: Yes (vs No),True,unclear
+Dependents_Yes,-0.23977919373937692,0.7868015726006488,0.659379397211983,0.9468652233057265,Dependents: Yes (vs No),False,lower churn odds
+PhoneService_Yes,-0.4081436209621282,0.6648833807739555,0.5199445794111386,0.8679027972465411,PhoneService: Yes (vs No),False,lower churn odds
+MultipleLines_Yes,0.27520070591513446,1.3167949368801108,1.114472895684508,1.5887150344201204,MultipleLines: Yes (vs No),False,higher churn odds
+InternetService_Fiber optic,0.8992957458892858,2.457871535361446,2.0391314609635387,3.0417402037435344,InternetService: Fiber optic (vs DSL),False,higher churn odds
+InternetService_No,-0.8361691158015747,0.4333675283220372,0.31653844951883775,0.5860902595184104,InternetService: No (vs DSL),False,lower churn odds
+OnlineSecurity_Yes,-0.3892027871631092,0.6775968481381802,0.5759168888109335,0.812157334547207,OnlineSecurity: Yes (vs No),False,lower churn odds
+OnlineBackup_Yes,-0.10898973787641164,0.8967396199038233,0.7452304517777869,1.0748856510309892,OnlineBackup: Yes (vs No),True,unclear
+DeviceProtection_Yes,-0.003522973932118818,0.9964832244594839,0.8463891833917264,1.1500413870752766,DeviceProtection: Yes (vs No),True,unclear
+TechSupport_Yes,-0.32259419442532594,0.7242677066133432,0.6041370139739732,0.8944720386535001,TechSupport: Yes (vs No),False,lower churn odds
+StreamingTV_Yes,0.2817161396026015,1.3254024373208741,1.0689681964438036,1.6149081158555598,StreamingTV: Yes (vs No),False,higher churn odds
+StreamingMovies_Yes,0.30537000239005757,1.3571270503733834,1.1344178274370278,1.6171579037190942,StreamingMovies: Yes (vs No),False,higher churn odds
+Contract_One year,-0.7311433268814698,0.4813583254422433,0.3789281922086118,0.6004979041132799,Contract: One year (vs Month-to-month),False,lower churn odds
+Contract_Two year,-1.393984852144686,0.24808475128488575,0.15690084476662552,0.33109198486462565,Contract: Two year (vs Month-to-month),False,lower churn odds
+PaperlessBilling_Yes,0.33363109052787365,1.3960280405996328,1.159482185878889,1.6694673645945568,PaperlessBilling: Yes (vs No),False,higher churn odds
+PaymentMethod_Credit card (automatic),-0.0009440950205804783,0.9990563504969088,0.7784471537499273,1.3074598280433878,PaymentMethod: Credit card (automatic) (vs Bank transfer (automatic)),True,unclear
+PaymentMethod_Electronic check,0.40247430264229994,1.495520493806075,1.2155317989983372,1.839715238257547,PaymentMethod: Electronic check (vs Bank transfer (automatic)),False,higher churn odds
+PaymentMethod_Mailed check,0.0825477881315752,1.0860505725266236,0.8633706701262928,1.4019254913318449,PaymentMethod: Mailed check (vs Bank transfer (automatic)),True,unclear

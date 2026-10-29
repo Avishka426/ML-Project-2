@@ -1,0 +1,15 @@
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.claude/
+
+# Local reference material (not for the public repo)
+All Tutorials.pdf
+Data Busters Group report.pdf
+WhatsApp Image*.jpeg

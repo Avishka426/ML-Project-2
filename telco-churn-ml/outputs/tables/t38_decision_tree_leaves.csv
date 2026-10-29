@@ -1,0 +1,9 @@
+simple_tree_cv_auc,simple_tree_test_auc,rule,customers,churn_rate
+0.8152083404032051,0.8153401017851146,Contract = Month-to-month AND InternetService = Fiber optic AND tenure <= 13.5,762,0.7099737532808399
+0.8152083404032051,0.8153401017851146,Contract = Month-to-month AND InternetService = Fiber optic AND tenure > 13.5,954,0.42138364779874216
+0.8152083404032051,0.8153401017851146,Contract = Month-to-month AND InternetService is not Fiber optic AND tenure <= 5.5,595,0.4016806722689076
+0.8152083404032051,0.8153401017851146,Contract is not Month-to-month AND MonthlyCharges > 93.7 AND Contract is not Two year,320,0.209375
+0.8152083404032051,0.8153401017851146,Contract = Month-to-month AND InternetService is not Fiber optic AND tenure > 5.5,806,0.18238213399503722
+0.8152083404032051,0.8153401017851146,Contract is not Month-to-month AND MonthlyCharges > 93.7 AND Contract = Two year,301,0.07973421926910298
+0.8152083404032051,0.8153401017851146,Contract is not Month-to-month AND MonthlyCharges <= 93.7 AND Contract is not Two year,842,0.07125890736342043
+0.8152083404032051,0.8153401017851146,Contract is not Month-to-month AND MonthlyCharges <= 93.7 AND Contract = Two year,1054,0.014231499051233396

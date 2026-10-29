@@ -1,0 +1,4 @@
+variable,unit,mean,median,sd,min,max,skewness,shape,churn_insight
+tenure,months,32.37072270339344,29.0,24.559791015175477,0.0,72.0,0.23955135922028656,U-shaped (peaks at both ends),churners lower (median 10.0 vs 38.0 months)
+MonthlyCharges,USD,64.76293198920914,70.35,30.093098887870493,18.25,118.75,-0.2201034161707714,bimodal (two peaks),churners higher (median 79.6 vs 64.4 USD)
+TotalCharges,USD,2279.788946471674,1394.4,2266.8610775920556,0.0,8684.8,0.9631935068962076,right-skewed,"churners lower (median 703.5 vs 1,679.5 USD)"

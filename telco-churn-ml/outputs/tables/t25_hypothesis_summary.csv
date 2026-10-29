@@ -1,0 +1,8 @@
+id,hypothesis,evidence,conclusion
+H1,Contract type is associated with churn,"V = 0.41 (medium), p < 0.001",Supported
+H2,Shorter tenure is associated with churn,"medians 10 vs 38 months, r = -0.48 (medium), p < 0.001",Supported
+H3,Fiber optic and electronic-check customers churn more,InternetService V = 0.32; PaymentMethod V = 0.30; both p < 0.001,Supported
+H4,Protective/support add-ons are associated with lower churn; streaming is not,"internet customers: OnlineSecurity V = 0.28, TechSupport V = 0.27; StreamingTV V = 0.04",Supported
+H5,Higher monthly charges are associated with churn,"medians 79.6 vs 64.4 USD, r = 0.24 (small); pattern is non-linear and tied to service type",Partly supported (small effect)
+H6,Gender shows no meaningful association,"V = 0.01, adjusted p = 1.000",Supported (no association)
+H7,TotalCharges is redundant given tenure and MonthlyCharges,VIF = 9.7; Spearman rho with tenure = 0.89,Supported

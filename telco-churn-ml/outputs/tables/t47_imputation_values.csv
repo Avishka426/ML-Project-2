@@ -1,0 +1,20 @@
+column,type,strategy,learned_value,missing_in_clean_data
+tenure,numeric,median,29.0,0
+MonthlyCharges,numeric,median,70.47,0
+TotalCharges,numeric,median,1394.0,0
+gender,categorical,most frequent,Male,15
+SeniorCitizen,categorical,most frequent,No,0
+Partner,categorical,most frequent,No,0
+Dependents,categorical,most frequent,No,0
+PhoneService,categorical,most frequent,Yes,0
+MultipleLines,categorical,most frequent,No,0
+InternetService,categorical,most frequent,Fiber optic,0
+OnlineSecurity,categorical,most frequent,No,0
+OnlineBackup,categorical,most frequent,No,0
+DeviceProtection,categorical,most frequent,No,0
+TechSupport,categorical,most frequent,No,0
+StreamingTV,categorical,most frequent,No,0
+StreamingMovies,categorical,most frequent,No,0
+Contract,categorical,most frequent,Month-to-month,35
+PaperlessBilling,categorical,most frequent,Yes,0
+PaymentMethod,categorical,most frequent,Electronic check,0

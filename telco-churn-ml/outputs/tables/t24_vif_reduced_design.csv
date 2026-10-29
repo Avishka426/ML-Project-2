@@ -1,0 +1,22 @@
+feature,VIF,concern
+tenure,2.778322679360192,low
+InternetService_No,2.7099159551845426,low
+Contract_Two year,2.5974961546647877,low
+InternetService_Fiber optic,2.0209071761545774,low
+PaymentMethod_Electronic check,1.9693745618936815,low
+PaymentMethod_Mailed check,1.8430512210245584,low
+StreamingMovies_Yes,1.6489330071601025,low
+StreamingTV_Yes,1.6350475899341033,low
+Contract_One year,1.6167187251829824,low
+PaymentMethod_Credit card (automatic),1.5546714559435153,low
+TechSupport_Yes,1.4948912050268348,low
+DeviceProtection_Yes,1.4946051651377117,low
+Partner_Yes,1.4488932194718114,low
+MultipleLines_Yes,1.430672167318755,low
+OnlineSecurity_Yes,1.417380226707845,low
+OnlineBackup_Yes,1.3904204958418886,low
+Dependents_Yes,1.3734616219106761,low
+PhoneService_Yes,1.3674503426761158,low
+PaperlessBilling_Yes,1.209559440603952,low
+SeniorCitizen_Yes,1.1527856500137554,low
+gender_Male,1.0036630793200334,low
